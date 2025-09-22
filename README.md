@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I’m Poorva!
+
+💻 **Bioinformatics Researcher | Data Scientist | Genomics & Immunotherapy Enthusiast**
+
+---
+
+I’m a Bioinformatics Researcher and Data Scientist with hands-on experience in NGS, scRNA-seq, snRNA-seq, and multi-omics data analysis. Currently, my work focuses on cancer immunotherapy and neurodegenerative diseases—bridging biology and data science through reproducible pipelines and machine learning for biological discovery.
+
+## 🔬 Research Areas
+- **Single-cell & spatial transcriptomics**: Mouse & human brain, cancer microenvironment, immune cells
+- **Bulk RNA-seq & proteomics pipelines**: Differential gene expression, pathway analysis, network biology
+- **Cancer immunotherapy**: CAR NK cells for glioblastoma, tumor microenvironment analysis
+- **Neurodegeneration**: APOE4-driven endothelial dysfunction in Alzheimer’s, PGRN-deficiency in FTD
+- **Data Science applications**: ML for GWAS, recommendation systems, predictive modeling, visualization tools
+
+## ⚙️ Tools & Skills
+**Python** | **R** | **SQL** | **Bash** | **TensorFlow** | **Scikit-learn** | **Seurat** | **Snakemake** | **HPC** | **AWS**
+
+## 📊 Strengths
+- Statistical modeling
+- Machine learning
+- Data visualization
+- ETL pipelines
+- Pathway & network analysis
+
+---
+
+🌱 **Passionate about making bioinformatics and data science workflows reproducible, scalable, and impactful for real-world biomedical and computational problems.**
+
+---
+
+## 🚀 Featured Projects
+
+- [**omics-pipelines**](https://github.com/ppoorva09/omics-pipelines): End-to-end, reproducible pipelines for bulk and single-cell omics data analysis, designed for scalability across research environments.
+- [**Go-guide**](https://github.com/ppoorva09/Go-guide): A practical guide for genomics and omics workflow optimization for researchers, featuring best practices and automation tips.
+
+---
 
 <!--
-**ppoorva09/ppoorva09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Feel free to connect, collaborate, or check out my other projects!
 -->
