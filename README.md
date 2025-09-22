@@ -32,8 +32,7 @@ I’m a Bioinformatics Researcher and Data Scientist with hands-on experience in
 ## 🚀 Featured Projects
 
 - [**omics-pipelines**](https://github.com/ppoorva09/omics-pipelines): End-to-end, reproducible pipelines for bulk and single-cell omics data analysis, designed for scalability across research environments.
-- [**Go-guide**](https://github.com/ppoorva09/Go-guide): A practical guide for genomics and omics workflow optimization for researchers, featuring best practices and automation tips.
-
+- [**Go-guide**](https://github.com/ppoorva09/Go-guide):
 ---
 
 <!--
