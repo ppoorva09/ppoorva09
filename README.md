@@ -31,8 +31,8 @@ I’m a Bioinformatics Researcher and Data Scientist with hands-on experience in
 
 ## 🚀 Featured Projects
 
-- [**omics-pipelines**](https://github.com/ppoorva09/omics-pipelines): End-to-end, reproducible pipelines for bulk and single-cell omics data analysis, designed for scalability across research environments.
-- [**Go-guide**](https://github.com/ppoorva09/Go-guide):
+- [**omics-pipelines**](https://github.com/ppoorva09/omics-pipelines): End-to-end, reproducible pipelines for omics data analysis, designed for scalability across research environments.
+- [**Go-guide**](https://github.com/ppoorva09/Go-guide): Go-Guide is a hotel and restaurant recommendation system that leverages NLP and sentiment analysis on large-scale review data to provide personalized recommendations.
 ---
 
 <!--
