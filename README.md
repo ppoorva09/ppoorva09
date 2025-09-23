@@ -6,15 +6,11 @@
 
 I’m a Bioinformatics Researcher and Data Scientist with hands-on experience in NGS, scRNA-seq, snRNA-seq, and multi-omics data analysis. Currently, my work focuses on cancer immunotherapy and neurodegenerative diseases—bridging biology and data science through reproducible pipelines and machine learning for biological discovery.
 
-## 🔬 Research Areas
-- **Single-cell & spatial transcriptomics**: Mouse & human brain, cancer microenvironment, immune cells
-- **Bulk RNA-seq & proteomics pipelines**: Differential gene expression, pathway analysis, network biology
-- **Cancer immunotherapy**: CAR NK cells for glioblastoma, tumor microenvironment analysis
-- **Neurodegeneration**: APOE4-driven endothelial dysfunction in Alzheimer’s, PGRN-deficiency in FTD
-- **Data Science applications**: ML for GWAS, recommendation systems, predictive modeling, visualization tools
-
 ## ⚙️ Tools & Skills
-**Python** | **R** | **SQL** | **Bash** | **TensorFlow** | **Scikit-learn** | **Seurat** | **Snakemake** | **HPC** | **AWS**
+- **Bioinformatics & Genomics:** Seurat, DESeq2, Monocle3, Harmony, CellChat, BWA, Bowtie2, GATK, samtools, HiFiasm, WGSIM, SOAPDENOVO, NCBI edirect, YAHs, cellRanger, SpaceRanger
+- **Programming & Data Science:** Python (Pandas, Numpy, scikit-learn, TensorFlow), R (tidyverse, ggplot2), SQL (MySQL), Bash, NLP, ETL, Statistical Modelling, Hypothesis Testing, Regression, Time Series Analysis
+- **Data Visualization:** Tableau, PowerBI, Circos, PCA, UMAP, Heatmaps, Violin, Volcano, MA Plots, Dot Plots, Trajectory Plots
+- **High-Performance Computing & Cloud:** Linux, AWS, Singularity, HPC, Slurm, Snakemake, Conda, GitHub
 
 ## 📊 Strengths
 - Statistical modeling
